@@ -1,6 +1,6 @@
 # Few-Shot Learning: Matching Networks, Prototypical Networks, and Relation Network
  
-**Team Nutella** — Nilarnab Debnath & Riya Mahesh
+**Team Members** — Riya Mahesh & Nilarnab Debnath 
  
 ---
  
